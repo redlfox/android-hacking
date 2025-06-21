@@ -2,7 +2,14 @@
 
 ## Tools
 
+### Decompiltion
+
+jd-gui
+
+### Hooks
+
 Frida 
+
 ### Autamation
 
 #### Javascript/Typescript
