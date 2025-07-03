@@ -10,6 +10,8 @@ jd-gui
 
 Frida 
 
+https://github.com/frida/frida-python
+
 ### Autamation
 
 #### Javascript/Typescript
